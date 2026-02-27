@@ -165,6 +165,172 @@
 - Tool
     - Scale Cage
 
+## Modeling
+
+### Mesh
+
+- Structure
+    - Vertices
+    - Edges
+    - Faces
+    - Shading
+    - Free Normals
+    - !Editing Custom Split Normals
+    - N-poles & E-poles
+    - Non-manifold
+- Options
+    - Generate UVs
+    - Align to View, Location, Rotation
+    - Triangle Fan, N-gon and Nothing
+    
+- Tools
+    
+    Sidebar > Tool tab > Options panel
+    
+    - ~Correct Face Attributes
+    - ~Keep Connected
+    - Mirror & Topology Mirror
+    - Auto Merge
+    - Live Unwrap
+    - /
+    - !Extrude
+    - !Extrude to Cursor
+    - !Loop Cut
+    - Poly Build
+    - .Create Quads
+    - .!Adding Geometry
+    - .!Deleting Geometry
+    - .!Moving Vertices & Extruding Edges
+    - .with Snapping
+- Selecting
+    - !Select Mirror
+    - Select Random
+    - Checker Deselect
+    - !More/Less
+    - !Next/Previous Active
+    - !Select Similar
+    - Select All by Trait
+    - !Select Linked
+    - !Select Shortest Path
+    - !Select Loops/Rings
+    - Loop Inner-Region
+    - Boundary Loop
+    - Sharp Edges
+    - Side by Active
+    - By Attribute
+    
+- Editing
+    - !Operators Menus
+    - !To Sphere
+    - !Shear
+    - !Bend
+    - Push/Pull
+    - Wrap
+    - Randomize
+    - !Shrink/Fatten
+    - !Skin Resize
+    - !Mirror
+    - !Duplicate
+    - !Merge
+    - !Split
+    - .!by Selected
+    - .Faces by Edges
+    - .Faces & Edges by Vertices
+    - !Separate
+    - Bisect
+    - Knife Project
+    - !Knife Topology Tool
+    - .!Cut
+    - .!Close Loop
+    - .!Stop
+    - .!Confirm
+    - .!Concel
+    - .!Undo
+    - .!Midpoint Snap
+    - .!Ignore Snap
+    - .!Cut Through
+    - .!Axis
+    - .!Measure
+    - .!X-Ray
+    - .!Angle Constraint
+    - Convex Hull
+    - Symmetrize
+    - Snap to Symmetry
+    - Editing Normals
+    - .Flip
+    - .!Recalculate
+    - .Set from Faces
+    - .!Rotate
+    - .!Point to Target
+    - ..!mouse cursor
+    - ..!pivot
+    - ..!object origin
+    - ..!click
+    - ..!click mesh
+    - .Merge
+    - .Split
+    - .Average
+    - .Copy/Paste Vectors
+    - .Smooth Vectors
+    - .Reset Vectors
+    - .Select by Face Strength
+    - .Set Face Strength
+    - Shading
+    - Set Attribute
+    - Sort Elements
+    - Clean Up
+    - .Delete Loose
+    - .Decimate Geometry
+    - .Degenerate Dissolve
+    - .Limited Dissolve
+    - .Make Planar Faces
+    - .Split Non-Planar Faces
+    - .Split Concave Faces
+    - .Merge by Distance
+    - .Fill Holes
+    - Deleting & Dissolving
+    - !Bevel Vertices/Edges
+    - !New Edge/Face from Vertices
+    - !Connect Vertex Path
+    - Connect Vertex Pairs
+    - !Rip Vertices
+    - !Rip Vertices and Fill
+    - !Rip Vertices and Extend
+    - !Slide Vertices
+    - Smooth Vertices
+    - Laplacian Smooth
+    - Blend from Shape
+    - Propagate to Shapes
+    - Set Active Group
+    - !Hooks
+    - !Make Vertex Parent
+    - Bridge Edge Loops
+    - Screw
+    - Subdivide
+    - Subdivide Edge-Ring
+    - Un-Subdivide
+    - Rotate Edge
+    - Offset Edge Slide
+    - !Edge Crease
+    - Edge Bevel Weight
+    - Mark/Clear Seam
+    - Mark/Clear Sharp
+    - Set Sharpness by Angle
+    - Mark/Clear Freestyle Edge
+    - !Inset Faces
+    - Poke Faces
+    - !Triangulate Faces
+    - !Triangles to Quads
+    - Solidify Faces
+    - Wireframe
+    - !Fill
+    - Grid Fill
+    - Beautify Faces
+    - Intersect(Knife)
+    - Intersect(Boolean)
+    - Weld Edges into Faces
+    - ~Face Data
+
 # RK
 
 ## Language
