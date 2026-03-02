@@ -24,9 +24,9 @@
     - !Sidebar
 - Tabs & Panels
 
-### Keymap
+### Keymap [ ]
 
-### UI Elements
+### UI Elements [ ]
 
 ### Tools & Operators
 
@@ -55,11 +55,9 @@
     - !Circle Select
     - !Lasso Select
 
-### Nodes
+### Nodes [ ]
 
-…
-
-## Editor
+## Editor [ ]
 
 ### 3D Viewport
 
@@ -330,6 +328,121 @@
     - Intersect(Boolean)
     - Weld Edges into Faces
     - ~Face Data
+    - !Unwrap
+- Properties
+    - Vertex Groups
+    - Shape Keys
+    - UV Maps
+    - Color Attributes
+    - Attributes
+    - Texture Space
+    - Remesh
+    - Geometry Data
+    - !Editing Vertex Groups
+    - ~Clear Sculpt Mask Data
+    - ~Add/Clear Skin Data
+    - ~Reorder Mesh Spatially
+    - ~Add/Clear Custom Split Normals Data
+- UVs
+    - UV Maps
+    - ~Texture Space
+    - Seams
+    - Seams from Islands
+    - Rip
+    - Grab
+    - Relax
+    - Pinch
+    - Copy Mirrored UV Coordinates
+    - !Snap
+    - !UV Rip Move
+    - !Pin & Unpin
+    - Pack Islands
+    - Average Island Scale
+    - Arrange/Align Islands
+    - ~!Set User Region
+    - Minimize Stretch
+    - !Stitch
+    - !Align
+    - Align Rotation
+    - !Move on Axis
+    - Rotate UVs
+    - Reverse UVs
+    - ~UDIMs
+    - Using the Test Grid
+    - ~Mesh Analysis
+    - ~Voxel Remeshing
+    - ~Quad Remeshing
+    - Retopology
+
+## Rendering
+
+### EEVEE [ ]
+
+### Cycles [ ]
+
+### Workbench [ ]
+
+### Cameras [ ]
+
+### Lights [ ]
+
+### Materials [ ]
+
+### Shader Nodes
+
+- Input
+- Output
+- Shader
+    - Holdout
+    - Add Shader
+    - Mix Shader
+    - Background
+    - Emission
+    - Diffuse BSDF
+    - Glass BSDF
+    - Glossy BSDF
+    - Hair BSDF
+    - Metallic BSDF
+    - Principled BSDF
+    - Principled Hair BSDF
+    - Principled Volume
+    - Ray Portal BSDF
+    - Refraction BSDF
+    - Specular BSDF
+    - Subsurface Scattering
+    - Toon BSDF
+    - Translucent BSDF
+    - Transparent BSDF
+    - Sheen BSDF
+    - Volume Absorption
+    - Volume Scatter
+    - Volume Coefficients
+- Displacement
+- Texture
+    - Brick Texture Node
+    - Checker Texture Node
+    - Environment Texture Node
+    - Gabor Texture Node
+    - Gradient Texture Node
+    - IES Texture Node
+    - Image Texture Node
+    - Magic Texture Node
+    - Noise Texture Node
+    - Sky Texture Node
+    - Voronoi Texture Node
+    - Wave Texture Node
+    - White Noise Texture Node
+- Color
+- Utilities
+- Group
+
+### Color Management [ ]
+
+### Freestyle [ ]
+
+### View Layers & Passes [ ]
+
+### Render Output [ ]
 
 # RK
 
